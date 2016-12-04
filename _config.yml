@@ -16,16 +16,16 @@ collections:
       number: 10
 description: 'Pralaya Yoga, Massage, Beeldhouwen'
 color:
-  saturation: 0.4042553
+  saturation: 0.7085106
   brandStrength: 0.8319149
-  lightness: 0.8362542
+  lightness: 1
   brandColors:
     - '#020204'
     - '#FFF9E9'
     - '#72755F'
     - '#D74432'
     - '#D2AB66'
-  rhythmicContrast: 0
+  rhythmicContrast: 0.8617021
 navigation:
   - name: Wie is Marleen?
     id: 960411e4-fb0a-4153-8be3-fbc7df380022
