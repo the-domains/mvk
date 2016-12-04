@@ -4,9 +4,9 @@
         <description><![CDATA[Marleen Van Kelst]]></description>
         <link>http://yanima.be/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 04 Dec 2016 13:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Dec 2016 13:22:20 GMT</lastBuildDate>
         <atom:link href="http://yanima.be/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 04 Dec 2016 13:17:36 GMT</pubDate>
+        <pubDate>Sun, 04 Dec 2016 13:21:15 GMT</pubDate>
         <item>
             <title><![CDATA[Wie is Marleen?]]></title>
             <description><![CDATA[<article><h1>Wie is Marleen?</h1><p>Bezieler</p></article>]]></description>
@@ -27,13 +27,6 @@
             <link>http://yanima.be/beeldhouwen/index.html</link>
             <guid isPermaLink="false">276665c1-fd2b-4a35-86f1-f60da8a48179</guid>
             <pubDate>Sun, 04 Dec 2016 13:16:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zittend]]></title>
-            <description><![CDATA[<article><h1>Zittend</h1><p>Brons</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9ffd2c2bab0b0a5b4613fbad26e525db/noop.jpg?input=http%3A%2F%2Fmarleenvankelst.be%2Fuploads%2Fsculptures%2F.thumbs%2Fimg_5779_7d5128.JPG"></article>]]></description>
-            <link>http://marleenvankelst.be/uploads/sculptures/.thumbs/img_5779_7d5128.JPG</link>
-            <guid isPermaLink="false">3c02e123-6881-4226-93c2-2a2b6f485888</guid>
-            <pubDate>Sun, 04 Dec 2016 13:17:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
