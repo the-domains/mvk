@@ -1,5 +1,6 @@
-layout_spectrum: 0.13337818214937233
 typography_spectrum: 0.647804330560554
+content_rating:
+  adult: false
 color:
   brandStrength: 0.8277888207892785
   lightness: 0.8362542203191372
@@ -11,18 +12,21 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-content_rating:
-  adult: false
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2fb5890-98c9-4842-9dae-a48732700876.jpg
   type: ''
+layout_spectrum: 0.13337818214937233
 author:
   name: Marleen Van Kelst
   email: info@anima.be
   url: marleenvankelst.be
 name: YaniMa
+navigation:
+  - name: Wie is Marleen?
+    id: 960411e4-fb0a-4153-8be3-fbc7df380022
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3780e033-abe4-4d51-be73-6ce2a9689b86.jpg
 title: Marleen Van Kelst
