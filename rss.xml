@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Marleen Van Kelst]]></title>
+        <description><![CDATA[Marleen Van Kelst]]></description>
+        <link>http://yanima.be/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 04 Dec 2016 11:41:08 GMT</lastBuildDate>
+        <atom:link href="http://yanima.be/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sun, 04 Dec 2016 11:41:07 GMT</pubDate>
+        <item>
+            <title><![CDATA[Wie is Marleen?]]></title>
+            <description><![CDATA[<article><h1>Wie is Marleen?</h1><p>Bezieler</p></article>]]></description>
+            <link>http://yanima.be/wie-is-marleen/index.html</link>
+            <guid isPermaLink="false">960411e4-fb0a-4153-8be3-fbc7df380022</guid>
+            <pubDate>Fri, 25 Nov 2016 13:45:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Massage]]></title>
+            <description><![CDATA[<article><h1>Massage</h1><p>“Ontspannend, alles gaat gewoon weg.” H, 11 jaar</p></article>]]></description>
+            <link>http://yanima.be/massage/index.html</link>
+            <guid isPermaLink="false">cf8e711f-c970-4121-9790-dbb20d87a1c0</guid>
+            <pubDate>Sun, 04 Dec 2016 11:41:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://marleenvankelst.be/uploads/sculptures/.thumbs/img_5779_7d5128.JPG"></article>]]></description>
+            <link>http://marleenvankelst.be/uploads/sculptures/.thumbs/img_5779_7d5128.JPG</link>
+            <guid isPermaLink="false">3c02e123-6881-4226-93c2-2a2b6f485888</guid>
+            <pubDate>Wed, 12 Oct 2016 14:27:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
