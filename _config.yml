@@ -1,7 +1,40 @@
-title: Marleen Van Kelst
-content: []
+typography_spectrum: 0.5148936
+content_rating:
+  adult: false
+color:
+  saturation: 0.4042553
+  brandStrength: 0.8319149
+  lightness: 0.8362542
+  brandColors:
+    - '#020204'
+    - '#FFF9E9'
+    - '#72755F'
+    - '#D74432'
+    - '#D2AB66'
+  rhythmicContrast: 0
 github: true
-purpose: []
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2fb5890-98c9-4842-9dae-a48732700876.jpg
+  type: ''
+layout_spectrum: 0
+author:
+  name: Marleen Van Kelst
+  email: info@anima.be
+  url: marleenvankelst.be
+name: YaniMa
+navigation:
+  - name: Wie is Marleen?
+    id: 960411e4-fb0a-4153-8be3-fbc7df380022
+    type: content
+  - name: Vind ons op Facebook
+    url: 'https://www.facebook.com/YaniMa-320659001649650/'
+    type: external
+  - name: Massage
+    id: cf8e711f-c970-4121-9790-dbb20d87a1c0
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3780e033-abe4-4d51-be73-6ce2a9689b86.jpg
 collections:
   - index:
       path: /
@@ -14,40 +47,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+title: Marleen Van Kelst
+content: []
 description: 'Pralaya Yoga, Massage, Beeldhouwen'
-color:
-  saturation: 0.4042553
-  brandStrength: 0.8319149
-  lightness: 0.8362542
-  brandColors:
-    - '#020204'
-    - '#FFF9E9'
-    - '#72755F'
-    - '#D74432'
-    - '#D2AB66'
-  rhythmicContrast: 0
-navigation:
-  - name: Wie is Marleen?
-    id: 960411e4-fb0a-4153-8be3-fbc7df380022
-    type: content
-  - name: Massage
-    id: cf8e711f-c970-4121-9790-dbb20d87a1c0
-    type: content
-  - name: Vind ons op Facebook
-    url: 'https://www.facebook.com/YaniMa-320659001649650/'
-    type: external
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3780e033-abe4-4d51-be73-6ce2a9689b86.jpg
-author:
-  name: Marleen Van Kelst
-  email: info@anima.be
-  url: marleenvankelst.be
-name: YaniMa
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2fb5890-98c9-4842-9dae-a48732700876.jpg
-  type: ''
-typography_spectrum: 0.5148936
-layout_spectrum: 0
-content_rating:
-  adult: false
+purpose: []
