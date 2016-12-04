@@ -1,28 +1,31 @@
-typography_spectrum: 0.647804330560554
-content_rating:
-  adult: false
-color:
-  brandStrength: 0.8277888207892785
-  lightness: 0.8362542203191372
-  saturation: 0.20651685393987096
-  rhythmicContrast: 0.17744536982867684
-  brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
+title: Marleen Van Kelst
+content: []
 github: true
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2fb5890-98c9-4842-9dae-a48732700876.jpg
-  type: ''
-layout_spectrum: 0.13337818214937233
-author:
-  name: Marleen Van Kelst
-  email: info@anima.be
-  url: marleenvankelst.be
-name: YaniMa
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+description: 'Pralaya Yoga, Massage, Beeldhouwen'
+color:
+  saturation: 0.4042553
+  brandStrength: 0.8319149
+  lightness: 0.8362542
+  brandColors:
+    - '#020204'
+    - '#FFF9E9'
+    - '#72755F'
+    - '#D74432'
+    - '#D2AB66'
+  rhythmicContrast: 0
 navigation:
   - name: Wie is Marleen?
     id: 960411e4-fb0a-4153-8be3-fbc7df380022
@@ -35,7 +38,16 @@ navigation:
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/3780e033-abe4-4d51-be73-6ce2a9689b86.jpg
-title: Marleen Van Kelst
-content: []
-description: 'Pralaya Yoga, Massage, Beeldhouwen'
-purpose: []
+author:
+  name: Marleen Van Kelst
+  email: info@anima.be
+  url: marleenvankelst.be
+name: YaniMa
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2fb5890-98c9-4842-9dae-a48732700876.jpg
+  type: ''
+typography_spectrum: 0.5148936
+layout_spectrum: 0
+content_rating:
+  adult: false
