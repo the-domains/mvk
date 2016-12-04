@@ -1,0 +1,31 @@
+typography_spectrum: 0.2468032455071807
+content_rating:
+  adult: false
+color:
+  brandStrength: 0.9394691449124366
+  lightness: 0.6828511145431548
+  saturation: 0.9730920123402029
+  rhythmicContrast: 0.8832908887416124
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2fb5890-98c9-4842-9dae-a48732700876.jpg
+  type: ''
+layout_spectrum: 0.7772081152070314
+author:
+  name: Marleen Van Kelst
+  email: info@anima.be
+  url: marleenvankelst.be
+name: YaniMa
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3780e033-abe4-4d51-be73-6ce2a9689b86.jpg
+title: Marleen Van Kelst
+content: []
+description: 'Pralaya Yoga, Massage, Beeldhouwen'
+purpose: []
