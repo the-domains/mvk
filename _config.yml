@@ -1,23 +1,23 @@
-typography_spectrum: 0.5276596
+layout_spectrum: 0.28960733652077986
+typography_spectrum: 0.5218243635566628
+color:
+  saturation: 0.7808457406898869
+  brandStrength: 0.07947223806818303
+  lightness: 0.2438224160117973
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+  rhythmicContrast: 0.31818457895438046
 content_rating:
   adult: false
-color:
-  saturation: 0.7085106
-  brandStrength: 0.8319149
-  lightness: 1
-  brandColors:
-    - '#020204'
-    - '#FFF9E9'
-    - '#72755F'
-    - '#D74432'
-    - '#D2AB66'
-  rhythmicContrast: 0.8617021
 github: true
 opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2fb5890-98c9-4842-9dae-a48732700876.jpg
   type: ''
-layout_spectrum: 0.2170213
 author:
   name: Marleen Van Kelst
   email: info@anima.be
