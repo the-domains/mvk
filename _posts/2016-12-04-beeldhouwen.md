@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-12T13:32:34.857Z'
+datePublished: '2016-12-12T13:33:21.076Z'
 sourcePath: _posts/2016-12-04-beeldhouwen.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-12T13:32:34.308Z'
+dateModified: '2016-12-12T13:33:20.157Z'
 title: Beeldhouwen
 publisher: {}
 description: ''
