@@ -36,8 +36,7 @@ navigation:
   - name: Beeldhouwen
     id: 276665c1-fd2b-4a35-86f1-f60da8a48179
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/3780e033-abe4-4d51-be73-6ce2a9689b86.jpg
+favicon: null
 collections:
   - index:
       path: /
@@ -54,4 +53,4 @@ title: Marleen Van Kelst
 content: []
 description: 'Pralaya Yoga, Massage, Beeldhouwen'
 purpose: []
-url: 'http://direct.yanima.be/'
+url: 'http://grid.yanima.be/'
